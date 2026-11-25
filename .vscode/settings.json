@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Besok Aja.sln"
+    "dotnet.defaultSolution": "Besok-aja.sln"
 }

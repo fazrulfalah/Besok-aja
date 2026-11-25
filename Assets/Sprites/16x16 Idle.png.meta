@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a51e4dea9fe205548bb22d0a3fa3dcbd
+guid: dd3d3d99556ddea418e84ccea4353a93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,11 +93,37 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 16x16 Walk2_0
+      name: 16x16 Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db7f4d5c039b80146bb873bf5ab73047
-      internalID: -1933602078
+      spriteID: 41072a4f129d84f448618687ec7e7892
+      internalID: 1130944495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16 Walk2_1
+      name: 16x16 Idle_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fef477c97eec07c43919523ee1c8dba5
-      internalID: 1052018469
+      spriteID: c1dfd2b9859792c49ba9bcbbafa490a5
+      internalID: -835254013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16 Walk2_2
+      name: 16x16 Idle_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f1445701b0a8b6499381270d56a15b1
-      internalID: -41188970
+      spriteID: e8e81f51feded064981436b745e1857a
+      internalID: 399880904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16 Walk2_3
+      name: 16x16 Idle_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5498316dace7ef479d1a43838e53ad7
-      internalID: 198477009
+      spriteID: f3ba13c435a6ff747830459bd05a1ff6
+      internalID: -972244682
       vertices: []
       indices: 
       edges: []
@@ -191,10 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      16x16 Walk2_0: -1933602078
-      16x16 Walk2_1: 1052018469
-      16x16 Walk2_2: -41188970
-      16x16 Walk2_3: 198477009
+      16x16 Idle_0: 1130944495
+      16x16 Idle_1: -835254013
+      16x16 Idle_2: 399880904
+      16x16 Idle_3: -972244682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
